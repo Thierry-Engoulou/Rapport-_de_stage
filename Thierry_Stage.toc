@@ -1,0 +1,41 @@
+\select@language {french}
+\contentsline {chapter}{INTRODUCTION}{ii}{chapter*.5}
+\contentsline {section}{\numberline {I}Objectifs du stage}{ii}{section.0.1}
+\contentsline {subsection}{\numberline {I.1}Objectif g\IeC {\'e}n\IeC {\'e}ral}{iii}{subsection.0.1.1}
+\contentsline {chapter}{\numberline {1}M\IeC {\'e}thodologie de recherche}{1}{chapter.1}
+\contentsline {section}{\numberline {I}Zone d\IeC {\textquoteright }\IeC {\'e}tude : Port Autonome de Douala}{1}{section.1.1}
+\contentsline {section}{\numberline {II}Repr\IeC {\'e}sentation spatiale de la zone}{2}{section.1.2}
+\contentsline {section}{\numberline {III}Influence du port sur le climat local}{2}{section.1.3}
+\contentsline {section}{\numberline {IV}R\IeC {\^o}le strat\IeC {\'e}gique du port \IeC {\`a} l\IeC {\textquoteright }\IeC {\'e}chelle nationale}{3}{section.1.4}
+\contentsline {section}{\numberline {V}Pr\IeC {\'e}sentation du syst\IeC {\`e}me d\IeC {\textquoteright }acquisition}{3}{section.1.5}
+\contentsline {subsection}{\numberline {V.1}Collecte des donn\IeC {\'e}es}{3}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {V.2}Plateforme de stockage}{4}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {V.3}Visualisation des donn\IeC {\'e}es}{4}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {V.4}Pr\IeC {\'e}sentation des variables utilis\IeC {\'e}es}{5}{subsection.1.5.4}
+\contentsline {section}{\numberline {VI}Mod\IeC {\'e}lisation pr\IeC {\'e}dictive des donn\IeC {\'e}es}{6}{section.1.6}
+\contentsline {subsection}{\numberline {VI.1}Filtrage des donn\IeC {\'e}es}{6}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {VI.2}Pr\IeC {\'e}traitement des donn\IeC {\'e}es}{6}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {VI.3}Validation du mod\IeC {\`e}le}{6}{subsection.1.6.3}
+\contentsline {section}{\numberline {VII}Plateforme de visualisation des donn\IeC {\'e}es et pr\IeC {\'e}visions}{7}{section.1.7}
+\contentsline {section}{\numberline {VIII}Int\IeC {\'e}gration et d\IeC {\'e}ploiement}{7}{section.1.8}
+\contentsline {subsection}{\numberline {VIII.1}D\IeC {\'e}ploiement des donn\IeC {\'e}es }{7}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {VIII.2}D\IeC {\'e}ploiement des sites web }{7}{subsection.1.8.2}
+\contentsline {chapter}{\numberline {2}R\IeC {\'E}SULTATS ET DISCUSSION}{8}{chapter.2}
+\contentsline {section}{\numberline {I}Mod\IeC {\'e}lisation avec LSTM}{8}{section.2.1}
+\contentsline {subsection}{\numberline {I.1}Entra\IeC {\^\i }nement du mod\IeC {\`e}le pr\IeC {\'e}dictif}{8}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {I.2}R\IeC {\'e}sultats de la pr\IeC {\'e}diction avec LSTM}{9}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {I.3}Analyse des R\IeC {\'e}sultats }{10}{subsection.2.1.3}
+\contentsline {section}{\numberline {II}Validation du mod\IeC {\`e}le LSMT }{11}{section.2.2}
+\contentsline {subsection}{\numberline {II.1}Justification m\IeC {\'e}thodologique de la comparaison}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {II.2}Choix justifi\IeC {\'e} du mod\IeC {\`e}le LSTM}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {II.3}Analyse des performances compar\IeC {\'e}es des mod\IeC {\`e}les}{12}{subsection.2.2.3}
+\contentsline {section}{\numberline {III}R\IeC {\'e}sultats de la pr\IeC {\'e}vision m\IeC {\'e}t\IeC {\'e}oroogique des conditions m\IeC {\'e}t\IeC {\'e}orologique au PAD}{14}{section.2.3}
+\contentsline {subsection}{\numberline {III.1}Conception de l\IeC {\textquoteright }interface web de visualisation}{14}{subsection.2.3.1}
+\contentsline {chapter}{\numberline {3}PRR\IeC {\'E}SENTATION DE L'APPLICATION D\IeC {\'E}VELOPP\IeC {\'E}E}{19}{chapter.3}
+\contentsline {subsection}{\numberline {.2}Page 1 \IeC {\textendash } Accueil}{20}{subsection.3.0.2}
+\contentsline {subsection}{\numberline {.3}Page 2 \IeC {\textendash } Carte des Stations}{21}{subsection.3.0.3}
+\contentsline {subsection}{\numberline {.4}Page 3 \IeC {\textendash } Donn\IeC {\'e}es en Temps R\IeC {\'e}el}{22}{subsection.3.0.4}
+\contentsline {subsection}{\numberline {.5}Page 4 \IeC {\textendash } \IeC {\'E}tat du Chenal}{23}{subsection.3.0.5}
+\contentsline {subsection}{\numberline {.6}Page 4 \IeC {\textendash } Alertes M\IeC {\'e}t\IeC {\'e}orologiques}{24}{subsection.3.0.6}
+\contentsline {chapter}{CONCLUSION G\IeC {\'E}N\IeC {\'E}RALE ET PERSPECTIVES}{26}{chapter*.24}
+\contentsline {chapter}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}{26}{chapter*.24}

@@ -1,0 +1,40 @@
+\BOOKMARK [0][-]{chapter*.5}{INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.0.1}{Objectifs du stage}{chapter*.5}% 2
+\BOOKMARK [2][-]{subsection.0.1.1}{Objectif g\351n\351ral}{section.0.1}% 3
+\BOOKMARK [0][-]{chapter.1}{M\351thodologie de recherche}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Zone d\220\351tude : Port Autonome de Douala}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Repr\351sentation spatiale de la zone}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Influence du port sur le climat local}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{R\364le strat\351gique du port \340 l\220\351chelle nationale}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.5}{Pr\351sentation du syst\350me d\220acquisition}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.5.1}{Collecte des donn\351es}{section.1.5}% 10
+\BOOKMARK [2][-]{subsection.1.5.2}{Plateforme de stockage}{section.1.5}% 11
+\BOOKMARK [2][-]{subsection.1.5.3}{Visualisation des donn\351es}{section.1.5}% 12
+\BOOKMARK [2][-]{subsection.1.5.4}{Pr\351sentation des variables utilis\351es}{section.1.5}% 13
+\BOOKMARK [1][-]{section.1.6}{Mod\351lisation pr\351dictive des donn\351es}{chapter.1}% 14
+\BOOKMARK [2][-]{subsection.1.6.1}{Filtrage des donn\351es}{section.1.6}% 15
+\BOOKMARK [2][-]{subsection.1.6.2}{Pr\351traitement des donn\351es}{section.1.6}% 16
+\BOOKMARK [2][-]{subsection.1.6.3}{Validation du mod\350le}{section.1.6}% 17
+\BOOKMARK [1][-]{section.1.7}{Plateforme de visualisation des donn\351es et pr\351visions}{chapter.1}% 18
+\BOOKMARK [1][-]{section.1.8}{Int\351gration et d\351ploiement}{chapter.1}% 19
+\BOOKMARK [2][-]{subsection.1.8.1}{D\351ploiement des donn\351es }{section.1.8}% 20
+\BOOKMARK [2][-]{subsection.1.8.2}{D\351ploiement des sites web }{section.1.8}% 21
+\BOOKMARK [0][-]{chapter.2}{R\311SULTATS ET DISCUSSION}{}% 22
+\BOOKMARK [1][-]{section.2.1}{Mod\351lisation avec LSTM}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.1.1}{Entra\356nement du mod\350le pr\351dictif}{section.2.1}% 24
+\BOOKMARK [2][-]{subsection.2.1.2}{R\351sultats de la pr\351diction avec LSTM}{section.2.1}% 25
+\BOOKMARK [2][-]{subsection.2.1.3}{Analyse des R\351sultats }{section.2.1}% 26
+\BOOKMARK [1][-]{section.2.2}{Validation du mod\350le LSMT }{chapter.2}% 27
+\BOOKMARK [2][-]{subsection.2.2.1}{Justification m\351thodologique de la comparaison}{section.2.2}% 28
+\BOOKMARK [2][-]{subsection.2.2.2}{Choix justifi\351 du mod\350le LSTM}{section.2.2}% 29
+\BOOKMARK [2][-]{subsection.2.2.3}{Analyse des performances compar\351es des mod\350les}{section.2.2}% 30
+\BOOKMARK [1][-]{section.2.3}{R\351sultats de la pr\351vision m\351t\351oroogique des conditions m\351t\351orologique au PAD}{chapter.2}% 31
+\BOOKMARK [2][-]{subsection.2.3.1}{Conception de l\220interface web de visualisation}{section.2.3}% 32
+\BOOKMARK [0][-]{chapter.3}{PRR\311SENTATION DE L'APPLICATION D\311VELOPP\311E}{}% 33
+\BOOKMARK [1][-]{subsection.3.0.2}{Page 1 \205 Accueil}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.0.3}{Page 2 \205 Carte des Stations}{subsection.3.0.2}% 35
+\BOOKMARK [2][-]{subsection.3.0.4}{Page 3 \205 Donn\351es en Temps R\351el}{subsection.3.0.2}% 36
+\BOOKMARK [2][-]{subsection.3.0.5}{Page 4 \205 \311tat du Chenal}{subsection.3.0.2}% 37
+\BOOKMARK [2][-]{subsection.3.0.6}{Page 4 \205 Alertes M\351t\351orologiques}{subsection.3.0.2}% 38
+\BOOKMARK [0][-]{chapter*.24}{CONCLUSION G\311N\311RALE ET PERSPECTIVES}{}% 39
+\BOOKMARK [0][-]{chapter*.24}{Conclusion g\351n\351rale}{}% 40
