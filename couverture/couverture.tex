@@ -1,0 +1,140 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=2cm,right=2cm,top=1.2cm,bottom=1.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\usepackage[french]{babel} % pour dire que le texte est en français
+\usepackage{ucs}
+\usepackage{amsmath}% très bon mode mathématique
+\usepackage{amsfonts}  % permets de definir les ensembles
+\usepackage{amssymb} % permets de definir les ensembles
+\usepackage{graphicx}  % pour gerer les figures
+\usepackage{float}  % pour le placement des figures
+\usepackage{caption} % pour faire des sous figures
+\usepackage{subcaption} % pour faire des sous figures 
+\usepackage{hyperref} % pour inserer automatiquement des liens dans le document
+\usepackage{booktabs} 
+\usepackage{layout}
+\usepackage{setspace} % pour se préparer et définir les marges
+%\usepackage[top=0.5cm, bottom=0.5cm, left=0.5cm, right=0.5cm]{geometry} % pour définir les marges
+\usepackage{multirow} % pour fusionner les lignes
+\usepackage{color} % pour charger des couleurs
+\usepackage{colortbl} % pour colorer les lignes et colonnes de tableaux
+\usepackage{array}
+\usepackage{chngcntr}
+\usepackage{sidecap} 
+\usepackage{cite} % pour citer des bandes de références
+\usepackage{tikz}
+\usepackage{lastpage}
+\usepackage{times}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{adjustbox}
+\usepackage{geometry}
+
+
+
+\begin{document}
+	
+	\begin{titlepage}
+	
+	\begin{tikzpicture}[remember picture, overlay]
+		\definecolor{bleufonce1}{RGB}{1, 1, 150}
+		\draw[line width=05pt,bleufonce1] 
+		([shift={(0.5cm,0.5cm)}]current page.south west) rectangle ([shift={(-0.5cm,-0.5cm)}]current page.north east);
+	\end{tikzpicture}
+	
+	
+	\begin{tikzpicture}[remember picture, overlay]
+		\node[anchor=north west, inner sep=0pt] at ([shift={(1.3cm,-2.2cm)}]current page.north west) {\includegraphics[width=0.2\textwidth]{Logo_PAD.png}};
+		\node[anchor=north east, inner sep=0pt] at ([shift={(-1.3cm,-2.2cm)}]current page.north east) {\includegraphics[width=0.2\textwidth]{ENSPD.png}};
+	\end{tikzpicture}
+	
+
+\hspace*{-1.250cm}
+%\begin{table}[ht]
+\centering
+\begin{adjustbox}{scale=0.6}
+
+
+\begin{tabular}{ccc}
+	
+	\textbf{REPUBLIQUE DU CAMEROUN} & & \textbf{REPUBLIC OF CAMEROON} \\
+	
+	\multicolumn{3}{c}{}\\
+	\textbf{Paix-Travail-Patrie} & & \textbf{Peace-Work-Fatherland} \\
+	\multicolumn{3}{c}{}\\
+	\textbf{UNIVERSITE DE DOUALA} & & \textbf{THE UNIVERSITY OF DOUALA} \\
+	
+	\multicolumn{3}{c}{}\\
+	\textbf{ÉCOLE NATIONALE SUPÉRIEURE} & & \textbf{NATIONAL HIGHER POLYTECHNIC}\\
+	\textbf{POLYTECHNIQUE DE DOUALA} & &    \textbf{SCHOOL OF DOUALA}\\
+	
+	\multicolumn{3}{c}{}\\
+	\textbf{DÉPARTEMENT DE MÉTÉOROLOGIE} & & \textbf{DEPARTEMENT OF METEOROLOGY}\\
+	
+	\multicolumn{3}{c}{}\\
+	\textbf{B.P : 2701 Douala} & & \textbf{P.O. Box : 2701 Douala} \\ 
+	\textbf{\url{Email: infos.udla@univ.douala.com}} & & \textbf{\url{https://www.univ-douala.cm}} \\ 
+	
+	\multicolumn{3}{c}{}\\
+	\multicolumn{3}{c}{}\\
+	\multicolumn{3}{c}{}\\
+	
+\end{tabular}
+\end{adjustbox}
+	\vspace{\stretch{1}}
+\begin{center}
+	\begin{tikzpicture}
+		\definecolor{bleufonce1}{RGB}{1, 1, 160}
+		\draw[line width=4pt, bleufonce1] (0,0) -- (\textwidth,0); % Ligne bleue de 2pt d'épaisseur
+	\end{tikzpicture} 
+	\vspace{\stretch{0}}\\
+	{\LARGE \textbf{Thème: Modélisation prédictive des conditions météorologiques au Port Autonome de Douala à partir de l'Intelligence Artificielle}}\
+	\vspace{\stretch{2}}
+	\begin{tikzpicture}
+		\definecolor{bleufonce1}{RGB}{1, 1, 160}
+		\draw[line width=4pt, bleufonce1] (0,0) -- (\textwidth,0); % Ligne bleue de 2pt d'épaisseur
+	\end{tikzpicture}
+	%\hrule
+	\vspace{\stretch{1}}
+	\noindent \normalsize {{\large \textbf{Rapport de stage }  } éffectué au\\}
+	\noindent \normalsize {Port Autonome de Douala  \\}
+	\vspace{\stretch{2}}
+	\noindent \normalsize \textit{Par :\\}
+	\vspace{\stretch{2}}
+	%\noindent \normalsize \textit{Titulaire du Diplôme d'Ingénieur des Travaux de la Météorologie  \\}
+	\noindent \Large \textbf{ENGOULOU SIKANDI Thierry}..............\normalsize{22G00823} \\
+	\vspace{\stretch{2}}
+	\noindent \normalsize \textit{Sous la Direction de : \\}
+	
+	%\vspace{\stretch{4}}
+\end{center}
+\begin{center}
+	\normalsize 
+	\begin{tabular}{llcl}
+		%	\textbf{Pr. Adrian TOMPKINS}&\textit{\footnotesize{{Enseignant-Chercheur à l'ICTP, Trieste-Italie}}} & \footnotesize{Directeur}\\
+		\vspace{\stretch{1}}\\
+		\textbf{Encadreurs Academiques} & & & \textbf{Encadreur Professionnel}\\
+	\\
+		\textbf{Pr. MOUANGUE Ruben Martin} & & & \textbf{M. LANGOUL Ulrich}\\
+		\textit{\footnotesize{Directeur de  l'ENSPD}} & & &  \textit{\footnotesize{Chef Service de l’Hydrographie au PAD}}\\
+		
+		
+	\end{tabular}
+\end{center}
+\vspace{\stretch{4}}
+\noindent \normalsize\textbf{\textit{Année Académique : 2024-2025\\}}
+\vspace{\stretch{1}}
+	\end{titlepage}
+	
+	
+	
+	
+	
+	
+\end{document}
